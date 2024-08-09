@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brute Force Attack Detection System</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+
+        header {
+            background-color: #3498db;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        .feature {
+            margin-bottom: 20px;
+        }
+
+        .feature h2 {
+            color: #3498db;
+            font-size: 1.2rem;
+            margin-top: 0;
+        }
+
+        .feature ul {
+            list-style-type: disc;
+            margin-left: 20px;
+            padding: 0;
+        }
+
+        .file-upload {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        input[type="file"] {
+            display: none;
+        }
+
+        label.file-label {
+            display: inline-block;
+            background-color: #3498db;
+            color: #fff;
+            padding: 10px 20px;
+            cursor: pointer;
+            border-radius: 5px;
+            font-weight: bold;
+            vertical-align: middle;
+        }
+
+        label.file-label:hover {
+            background-color: #2980b9;
+        }
+
+        #file-input {
+            display: none;
+        }
+
+        #file-name {
+            font-weight: bold;
+            margin-top: 10px;
+            display: inline-block;
+            vertical-align: middle;
+        }
+
+        #submit-button {
+            background-color: #2980b9;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 20px;
+            font-weight: bold;
+            transition: background-color 0.3s;
+            vertical-align: middle;
+        }
+
+        #submit-button:hover {
+            background-color: #1c6387;
+        }
+
+        select {
+            padding: 10px 20px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Brute Force Attack Detection System</h1>
+        <p>A robust solution to safeguard your systems from unauthorized access attempts</p>
+    </header>
+
+    <div class="container">
+        <div class="feature">
+            <h2>How it Works</h2>
+            <p>Our Brute Force Attack Detection System employs advanced algorithms to analyze login attempts and identify suspicious patterns indicative of brute force attacks. It monitors login activity in real-time and alerts administrators when potential threats are detected.</p>
+        </div>
+
+        <div class="feature">
+            <h2>Key Features</h2>
+            <ul>
+                <li>Real-time monitoring of login attempts</li>
+                <li>Pattern recognition for brute force attacks</li>
+                <li>Customizable alerting and notification system</li>
+                <li>Integration with existing security infrastructure</li>
+                <li>User-friendly interface for easy management</li>
+            </ul>
+        </div>
+
+        <form method="POST" action="/predict" enctype="multipart/form-data" class="file-upload">
+            <label for="file-input" class="file-label">Choose a CSV file</label>
+            <input type="file" name="csvfile" id="file-input">
+            <span id="file-name"></span>
+<br>
+            <select name="model" id="model-select">
+                <option value="Random_Forest_Classifier">Random Forest Classifier</option>
+                <option value="Decision_Tree_Classifier">Decision Tree Classifier</option>
+                <option value="SVM_Classifier">Support Vector Machine (SVM) Classifier</option>
+            </select>
+             <br>
+            <input type="submit" value="Submit" id="submit-button">
+        </form>
+
+        <div class="feature">
+            <h2>Stay Protected</h2>
+            <p>Brute force attacks remain a persistent threat in today's digital landscape. Our Brute Force Attack Detection System provides a proactive defense mechanism to mitigate these risks and ensure the integrity and security of your systems.</p>
+        </div>
+    </div>
+
+    <script>
+        const fileInput = document.getElementById('file-input');
+        const fileNameSpan = document.getElementById('file-name');
+
+        fileInput.addEventListener('change', () => {
+            if (fileInput.files.length > 0) {
+                fileNameSpan.textContent = `Selected file: ${fileInput.files[0].name}`;
+            } else {
+                fileNameSpan.textContent = '';
+            }
+        });
+    </script>
+</body>
+</html>

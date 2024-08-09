@@ -1,0 +1,783 @@
+2024-03-10 21:47:05,326:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.8.169:8080
+2024-03-10 21:47:05,326:INFO:[33mPress CTRL+C to quit[0m
+2024-03-10 21:47:09,831:INFO:192.168.8.169 - - [10/Mar/2024 21:47:09] "GET /index HTTP/1.1" 200 -
+2024-03-10 21:47:18,982:INFO:192.168.8.169 - - [10/Mar/2024 21:47:18] "POST /predict HTTP/1.1" 200 -
+2024-03-11 18:41:00,548:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.8.169:8080
+2024-03-11 18:41:00,549:INFO:[33mPress CTRL+C to quit[0m
+2024-03-11 18:41:06,016:INFO:192.168.8.169 - - [11/Mar/2024 18:41:06] "GET /index HTTP/1.1" 200 -
+2024-03-11 18:41:16,826:INFO:192.168.8.169 - - [11/Mar/2024 18:41:16] "[33mPOST /detect HTTP/1.1[0m" 404 -
+2024-03-11 18:43:36,186:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.8.169:8080
+2024-03-11 18:43:36,186:INFO:[33mPress CTRL+C to quit[0m
+2024-03-11 18:43:38,369:INFO:192.168.8.169 - - [11/Mar/2024 18:43:38] "GET /index HTTP/1.1" 200 -
+2024-03-11 18:43:47,342:INFO:192.168.8.169 - - [11/Mar/2024 18:43:47] "[33mPOST /detect HTTP/1.1[0m" 404 -
+2024-03-11 18:44:57,325:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.8.169:8080
+2024-03-11 18:44:57,325:INFO:[33mPress CTRL+C to quit[0m
+2024-03-11 18:45:02,214:INFO:192.168.8.169 - - [11/Mar/2024 18:45:02] "GET /index HTTP/1.1" 200 -
+2024-03-11 18:45:02,435:INFO:192.168.8.169 - - [11/Mar/2024 18:45:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-11 18:45:12,442:INFO:192.168.8.169 - - [11/Mar/2024 18:45:12] "POST /predict HTTP/1.1" 200 -
+2024-03-11 18:45:36,228:INFO:192.168.8.169 - - [11/Mar/2024 18:45:36] "GET /index HTTP/1.1" 200 -
+2024-03-11 18:45:44,966:INFO:192.168.8.169 - - [11/Mar/2024 18:45:44] "POST /predict HTTP/1.1" 200 -
+2024-03-11 18:50:11,587:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.8.169:8080
+2024-03-11 18:50:11,587:INFO:[33mPress CTRL+C to quit[0m
+2024-03-11 18:50:19,191:INFO:192.168.8.169 - - [11/Mar/2024 18:50:19] "GET /index HTTP/1.1" 200 -
+2024-03-11 18:50:19,387:INFO:192.168.8.169 - - [11/Mar/2024 18:50:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-11 18:50:38,673:INFO:192.168.8.169 - - [11/Mar/2024 18:50:38] "POST /predict HTTP/1.1" 200 -
+2024-03-11 19:33:32,696:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.8.169:8080
+2024-03-11 19:33:32,696:INFO:[33mPress CTRL+C to quit[0m
+2024-03-11 19:33:36,887:INFO:192.168.8.169 - - [11/Mar/2024 19:33:36] "GET /index HTTP/1.1" 200 -
+2024-03-11 19:47:58,062:INFO:192.168.8.169 - - [11/Mar/2024 19:47:58] "POST /predict HTTP/1.1" 200 -
+2024-03-17 16:00:23,382:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.8.169:8080
+2024-03-17 16:00:23,382:INFO:[33mPress CTRL+C to quit[0m
+2024-03-17 16:01:34,215:INFO:192.168.8.169 - - [17/Mar/2024 16:01:34] "GET /index HTTP/1.1" 200 -
+2024-03-17 16:01:35,960:INFO:192.168.8.169 - - [17/Mar/2024 16:01:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-17 16:02:24,537:INFO:192.168.8.169 - - [17/Mar/2024 16:02:24] "POST /predict HTTP/1.1" 200 -
+2024-03-17 21:07:09,036:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.8.169:8080
+2024-03-17 21:07:09,036:INFO:[33mPress CTRL+C to quit[0m
+2024-03-17 21:07:43,725:INFO:192.168.8.169 - - [17/Mar/2024 21:07:43] "GET /index HTTP/1.1" 200 -
+2024-03-17 21:07:45,298:INFO:192.168.8.169 - - [17/Mar/2024 21:07:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-17 21:08:26,418:INFO:192.168.8.169 - - [17/Mar/2024 21:08:26] "POST /predict HTTP/1.1" 200 -
+2024-03-18 20:08:26,963:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.8.169:8080
+2024-03-18 20:08:26,965:INFO:[33mPress CTRL+C to quit[0m
+2024-03-18 20:08:29,753:INFO:192.168.8.169 - - [18/Mar/2024 20:08:29] "GET /index HTTP/1.1" 200 -
+2024-03-18 20:08:30,853:INFO:192.168.8.169 - - [18/Mar/2024 20:08:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-18 20:08:52,575:INFO:192.168.8.169 - - [18/Mar/2024 20:08:52] "POST /predict HTTP/1.1" 200 -
+2024-03-18 20:08:52,595:INFO:192.168.8.169 - - [18/Mar/2024 20:08:52] "POST /predict HTTP/1.1" 200 -
+2024-03-18 20:14:30,601:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.8.169:8080
+2024-03-18 20:14:30,601:INFO:[33mPress CTRL+C to quit[0m
+2024-03-18 20:14:34,397:INFO:192.168.8.169 - - [18/Mar/2024 20:14:34] "GET /index HTTP/1.1" 200 -
+2024-03-18 20:14:44,748:ERROR:Exception on /predict [POST]
+Traceback (most recent call last):
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\OneDrive - Voigue Pty Ltd\Desktop\Dilmika\Attack_Detection_Application.py", line 93, in predict
+    is_malicious = pred.any() == 1
+                   ^^^^^^^^
+AttributeError: 'str' object has no attribute 'any'
+2024-03-18 20:14:44,761:INFO:192.168.8.169 - - [18/Mar/2024 20:14:44] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-03-18 20:17:31,036:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.8.169:8080
+2024-03-18 20:17:31,036:INFO:[33mPress CTRL+C to quit[0m
+2024-03-18 20:17:34,494:INFO:192.168.8.169 - - [18/Mar/2024 20:17:34] "GET /index HTTP/1.1" 200 -
+2024-03-18 20:17:45,823:INFO:192.168.8.169 - - [18/Mar/2024 20:17:45] "POST /predict HTTP/1.1" 200 -
+2024-03-18 20:20:05,401:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.8.169:8080
+2024-03-18 20:20:05,401:INFO:[33mPress CTRL+C to quit[0m
+2024-03-18 20:20:14,071:INFO:192.168.8.169 - - [18/Mar/2024 20:20:14] "GET /index HTTP/1.1" 200 -
+2024-03-18 20:20:25,675:INFO:192.168.8.169 - - [18/Mar/2024 20:20:25] "POST /predict HTTP/1.1" 200 -
+2024-03-18 20:22:07,800:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.8.169:8080
+2024-03-18 20:22:07,800:INFO:[33mPress CTRL+C to quit[0m
+2024-03-18 20:22:13,213:INFO:192.168.8.169 - - [18/Mar/2024 20:22:13] "GET /index HTTP/1.1" 200 -
+2024-03-18 20:22:13,918:INFO:192.168.8.169 - - [18/Mar/2024 20:22:13] "GET /index HTTP/1.1" 200 -
+2024-03-18 20:22:23,468:INFO:192.168.8.169 - - [18/Mar/2024 20:22:23] "POST /predict HTTP/1.1" 200 -
+2024-03-18 20:26:22,945:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.8.169:8080
+2024-03-18 20:26:22,945:INFO:[33mPress CTRL+C to quit[0m
+2024-03-18 20:26:29,621:ERROR:Exception on /index [GET]
+Traceback (most recent call last):
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\OneDrive - Voigue Pty Ltd\Desktop\Dilmika\Attack_Detection_Application.py", line 21, in index
+    return flask.render_template('index.html')
+           ^^^^^
+NameError: name 'flask' is not defined
+2024-03-18 20:26:29,624:INFO:192.168.8.169 - - [18/Mar/2024 20:26:29] "[35m[1mGET /index HTTP/1.1[0m" 500 -
+2024-03-18 20:26:31,572:ERROR:Exception on /index [GET]
+Traceback (most recent call last):
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\OneDrive - Voigue Pty Ltd\Desktop\Dilmika\Attack_Detection_Application.py", line 21, in index
+    return flask.render_template('index.html')
+           ^^^^^
+NameError: name 'flask' is not defined
+2024-03-18 20:26:31,573:INFO:192.168.8.169 - - [18/Mar/2024 20:26:31] "[35m[1mGET /index HTTP/1.1[0m" 500 -
+2024-03-18 20:26:32,693:ERROR:Exception on /index [GET]
+Traceback (most recent call last):
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\OneDrive - Voigue Pty Ltd\Desktop\Dilmika\Attack_Detection_Application.py", line 21, in index
+    return flask.render_template('index.html')
+           ^^^^^
+NameError: name 'flask' is not defined
+2024-03-18 20:26:32,695:INFO:192.168.8.169 - - [18/Mar/2024 20:26:32] "[35m[1mGET /index HTTP/1.1[0m" 500 -
+2024-03-18 20:26:42,354:ERROR:Exception on /index [GET]
+Traceback (most recent call last):
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\OneDrive - Voigue Pty Ltd\Desktop\Dilmika\Attack_Detection_Application.py", line 21, in index
+    return flask.render_template('index.html')
+           ^^^^^
+NameError: name 'flask' is not defined
+2024-03-18 20:26:42,356:INFO:192.168.8.169 - - [18/Mar/2024 20:26:42] "[35m[1mGET /index HTTP/1.1[0m" 500 -
+2024-03-18 20:27:49,366:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.8.169:8080
+2024-03-18 20:27:49,366:INFO:[33mPress CTRL+C to quit[0m
+2024-03-18 20:27:53,859:ERROR:Exception on /index [GET]
+Traceback (most recent call last):
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\OneDrive - Voigue Pty Ltd\Desktop\Dilmika\Attack_Detection_Application.py", line 21, in index
+    return flask.render_template('index.html')
+           ^^^^^
+NameError: name 'flask' is not defined
+2024-03-18 20:27:53,861:INFO:192.168.8.169 - - [18/Mar/2024 20:27:53] "[35m[1mGET /index HTTP/1.1[0m" 500 -
+2024-03-18 20:27:56,364:ERROR:Exception on /index [GET]
+Traceback (most recent call last):
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\OneDrive - Voigue Pty Ltd\Desktop\Dilmika\Attack_Detection_Application.py", line 21, in index
+    return flask.render_template('index.html')
+           ^^^^^
+NameError: name 'flask' is not defined
+2024-03-18 20:27:56,365:INFO:192.168.8.169 - - [18/Mar/2024 20:27:56] "[35m[1mGET /index HTTP/1.1[0m" 500 -
+2024-03-18 20:27:57,478:ERROR:Exception on /index [GET]
+Traceback (most recent call last):
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\OneDrive - Voigue Pty Ltd\Desktop\Dilmika\Attack_Detection_Application.py", line 21, in index
+    return flask.render_template('index.html')
+           ^^^^^
+NameError: name 'flask' is not defined
+2024-03-18 20:27:57,480:INFO:192.168.8.169 - - [18/Mar/2024 20:27:57] "[35m[1mGET /index HTTP/1.1[0m" 500 -
+2024-03-18 20:28:21,526:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.8.169:8080
+2024-03-18 20:28:21,526:INFO:[33mPress CTRL+C to quit[0m
+2024-03-18 20:28:24,359:INFO:192.168.8.169 - - [18/Mar/2024 20:28:24] "GET /index HTTP/1.1" 200 -
+2024-03-18 20:28:35,802:INFO:192.168.8.169 - - [18/Mar/2024 20:28:35] "POST /predict HTTP/1.1" 200 -
+2024-03-18 20:30:06,656:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.8.169:8080
+2024-03-18 20:30:06,656:INFO:[33mPress CTRL+C to quit[0m
+2024-03-18 20:30:10,827:ERROR:Exception on /index [GET]
+Traceback (most recent call last):
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\OneDrive - Voigue Pty Ltd\Desktop\Dilmika\Attack_Detection_Application.py", line 21, in index
+    return flask.render_template('index.html')
+           ^^^^^
+NameError: name 'flask' is not defined
+2024-03-18 20:30:10,828:INFO:192.168.8.169 - - [18/Mar/2024 20:30:10] "[35m[1mGET /index HTTP/1.1[0m" 500 -
+2024-03-18 20:30:11,792:ERROR:Exception on /index [GET]
+Traceback (most recent call last):
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LakjayaSilva\OneDrive - Voigue Pty Ltd\Desktop\Dilmika\Attack_Detection_Application.py", line 21, in index
+    return flask.render_template('index.html')
+           ^^^^^
+NameError: name 'flask' is not defined
+2024-03-18 20:30:11,792:INFO:192.168.8.169 - - [18/Mar/2024 20:30:11] "[35m[1mGET /index HTTP/1.1[0m" 500 -
+2024-03-18 20:40:16,928:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.8.169:8080
+2024-03-18 20:40:16,928:INFO:[33mPress CTRL+C to quit[0m
+2024-03-18 20:40:21,413:INFO:192.168.8.169 - - [18/Mar/2024 20:40:21] "GET /index HTTP/1.1" 200 -
+2024-03-18 20:40:33,560:INFO:192.168.8.169 - - [18/Mar/2024 20:40:33] "POST /predict HTTP/1.1" 200 -
+2024-03-18 20:41:47,375:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.8.169:8080
+2024-03-18 20:41:47,375:INFO:[33mPress CTRL+C to quit[0m
+2024-03-18 20:41:51,548:INFO:192.168.8.169 - - [18/Mar/2024 20:41:51] "GET /index HTTP/1.1" 200 -
+2024-03-18 20:42:03,214:INFO:192.168.8.169 - - [18/Mar/2024 20:42:03] "POST /predict HTTP/1.1" 200 -
+2024-03-18 22:53:42,053:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.43.242:8080
+2024-03-18 22:53:42,054:INFO:[33mPress CTRL+C to quit[0m
+2024-03-18 22:54:41,594:INFO:192.168.43.242 - - [18/Mar/2024 22:54:41] "GET /index HTTP/1.1" 200 -
+2024-03-18 22:54:42,424:INFO:192.168.43.242 - - [18/Mar/2024 22:54:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-18 22:55:17,563:INFO:192.168.43.242 - - [18/Mar/2024 22:55:17] "POST /predict HTTP/1.1" 200 -
+2024-03-18 23:04:34,617:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.43.242:8080
+2024-03-18 23:04:34,617:INFO:[33mPress CTRL+C to quit[0m
+2024-03-18 23:06:01,277:INFO:192.168.43.242 - - [18/Mar/2024 23:06:01] "GET /index HTTP/1.1" 200 -
+2024-03-18 23:06:16,163:INFO:192.168.43.242 - - [18/Mar/2024 23:06:16] "POST /predict HTTP/1.1" 200 -
+2024-03-18 23:18:44,237:INFO:192.168.43.242 - - [18/Mar/2024 23:18:44] "POST /predict HTTP/1.1" 200 -
+2024-03-18 23:38:14,747:INFO:192.168.43.242 - - [18/Mar/2024 23:38:14] "GET /index HTTP/1.1" 200 -
+2024-03-18 23:38:23,322:INFO:192.168.43.242 - - [18/Mar/2024 23:38:23] "POST /predict HTTP/1.1" 200 -
+2024-03-19 07:09:08,299:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.43.242:8080
+2024-03-19 07:09:08,417:INFO:[33mPress CTRL+C to quit[0m
+2024-03-19 07:10:17,363:INFO:192.168.43.242 - - [19/Mar/2024 07:10:17] "GET /index HTTP/1.1" 200 -
+2024-03-19 07:10:17,487:INFO:192.168.43.242 - - [19/Mar/2024 07:10:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-19 07:10:39,336:INFO:192.168.43.242 - - [19/Mar/2024 07:10:39] "POST /predict HTTP/1.1" 200 -
+2024-03-19 09:22:06,126:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.28.19.42:8080
+2024-03-19 09:22:06,126:INFO:[33mPress CTRL+C to quit[0m
+2024-03-19 09:22:35,916:INFO:172.28.19.42 - - [19/Mar/2024 09:22:35] "GET /index HTTP/1.1" 200 -
+2024-03-19 09:22:36,204:INFO:172.28.19.42 - - [19/Mar/2024 09:22:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-19 09:22:52,596:INFO:172.28.19.42 - - [19/Mar/2024 09:22:52] "POST /predict HTTP/1.1" 200 -
+2024-03-19 09:27:52,210:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.28.19.42:8080
+2024-03-19 09:27:52,210:INFO:[33mPress CTRL+C to quit[0m
+2024-03-19 09:28:22,235:INFO:172.28.19.42 - - [19/Mar/2024 09:28:22] "GET /index HTTP/1.1" 200 -
+2024-03-19 09:28:32,047:INFO:172.28.19.42 - - [19/Mar/2024 09:28:32] "POST /predict HTTP/1.1" 200 -
+2024-03-19 11:11:22,491:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.28.19.42:8080
+2024-03-19 11:11:22,491:INFO:[33mPress CTRL+C to quit[0m
+2024-03-19 11:12:17,829:INFO:172.28.19.42 - - [19/Mar/2024 11:12:17] "GET /index HTTP/1.1" 200 -
+2024-03-19 11:12:22,835:INFO:172.28.19.42 - - [19/Mar/2024 11:12:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-19 11:14:12,316:INFO:172.28.19.42 - - [19/Mar/2024 11:14:12] "POST /predict HTTP/1.1" 200 -
+2024-03-19 11:41:57,289:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.28.19.42:8080
+2024-03-19 11:41:57,289:INFO:[33mPress CTRL+C to quit[0m
+2024-03-19 11:42:17,536:INFO:172.28.19.42 - - [19/Mar/2024 11:42:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-19 11:42:20,223:INFO:172.28.19.42 - - [19/Mar/2024 11:42:20] "GET /index HTTP/1.1" 200 -
+2024-03-19 11:42:55,180:INFO:172.28.19.42 - - [19/Mar/2024 11:42:55] "POST /predict HTTP/1.1" 200 -
+2024-03-19 11:43:35,402:ERROR:Some column values are left empty
+2024-03-19 11:43:35,437:INFO:172.28.19.42 - - [19/Mar/2024 11:43:35] "POST /predict HTTP/1.1" 200 -
+2024-03-19 11:44:41,624:ERROR:Some column values are left empty
+2024-03-19 11:44:41,624:INFO:172.28.19.42 - - [19/Mar/2024 11:44:41] "POST /predict HTTP/1.1" 200 -
+2024-03-19 11:52:31,242:INFO:172.28.19.42 - - [19/Mar/2024 11:52:31] "GET /index HTTP/1.1" 200 -
+2024-03-19 11:52:34,887:INFO:172.28.19.42 - - [19/Mar/2024 11:52:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-19 11:52:42,705:ERROR:Some column values are left empty
+2024-03-19 11:52:42,705:INFO:172.28.19.42 - - [19/Mar/2024 11:52:42] "POST /predict HTTP/1.1" 200 -
+2024-04-22 21:09:04,115:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.43.242:8080
+2024-04-22 21:09:04,216:INFO:[33mPress CTRL+C to quit[0m
+2024-04-22 21:11:32,279:INFO:192.168.43.242 - - [22/Apr/2024 21:11:32] "[33mGET / HTTP/1.1[0m" 404 -
+2024-04-22 21:11:32,376:INFO:192.168.43.242 - - [22/Apr/2024 21:11:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-22 21:14:28,267:INFO:192.168.43.242 - - [22/Apr/2024 21:14:28] "GET /index HTTP/1.1" 200 -
+2024-04-22 21:14:38,185:INFO:192.168.43.242 - - [22/Apr/2024 21:14:38] "GET /index HTTP/1.1" 200 -
+2024-04-22 21:15:08,371:INFO:192.168.43.242 - - [22/Apr/2024 21:15:08] "[33mGET / HTTP/1.1[0m" 404 -
+2024-04-22 21:15:13,804:INFO:192.168.43.242 - - [22/Apr/2024 21:15:13] "GET /index HTTP/1.1" 200 -
+2024-04-22 21:19:25,351:INFO:192.168.43.242 - - [22/Apr/2024 21:19:25] "POST /predict HTTP/1.1" 200 -
+2024-04-22 21:19:52,374:INFO:192.168.43.242 - - [22/Apr/2024 21:19:52] "POST /predict HTTP/1.1" 200 -
+2024-04-22 21:20:08,507:ERROR:Some column values are left empty
+2024-04-22 21:20:08,529:INFO:192.168.43.242 - - [22/Apr/2024 21:20:08] "POST /predict HTTP/1.1" 200 -
+2024-04-22 21:20:12,616:INFO:192.168.43.242 - - [22/Apr/2024 21:20:12] "GET /index HTTP/1.1" 200 -
+2024-04-22 21:20:18,242:ERROR:Some column values are left empty
+2024-04-22 21:20:18,243:INFO:192.168.43.242 - - [22/Apr/2024 21:20:18] "POST /predict HTTP/1.1" 200 -
+2024-04-22 21:20:26,354:INFO:192.168.43.242 - - [22/Apr/2024 21:20:26] "GET /index HTTP/1.1" 200 -
+2024-04-22 21:20:43,453:INFO:192.168.43.242 - - [22/Apr/2024 21:20:43] "POST /predict HTTP/1.1" 200 -
+2024-04-22 21:20:49,557:INFO:192.168.43.242 - - [22/Apr/2024 21:20:49] "GET /index HTTP/1.1" 200 -
+2024-04-22 21:20:49,588:INFO:192.168.43.242 - - [22/Apr/2024 21:20:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-22 21:20:52,685:INFO:192.168.43.242 - - [22/Apr/2024 21:20:52] "GET /index HTTP/1.1" 200 -
+2024-04-22 21:20:52,718:INFO:192.168.43.242 - - [22/Apr/2024 21:20:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-22 21:20:58,991:ERROR:Some column values are left empty
+2024-04-22 21:20:58,991:INFO:192.168.43.242 - - [22/Apr/2024 21:20:58] "POST /predict HTTP/1.1" 200 -
+2024-05-15 20:53:01,244:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8081
+ * Running on http://192.168.8.169:8081
+2024-05-15 20:53:01,246:INFO:[33mPress CTRL+C to quit[0m
+2024-05-15 20:53:01,268:INFO: * Restarting with watchdog (windowsapi)
+2024-05-15 20:53:03,929:WARNING: * Debugger is active!
+2024-05-15 20:53:03,935:INFO: * Debugger PIN: 109-047-819
+2024-05-15 20:53:15,700:INFO:192.168.8.169 - - [15/May/2024 20:53:15] "[35m[1mGET /predict HTTP/1.1[0m" 500 -
+2024-05-15 20:54:14,028:INFO: * Detected change in 'C:\\Users\\LakjayaSilva\\OneDrive - Voigue Pty Ltd\\Desktop\\Cyber_Team - 056\\Dilmika\\Research codee\\aaa.py', reloading
+2024-05-15 20:54:14,315:INFO: * Detected change in 'C:\\Users\\LakjayaSilva\\OneDrive - Voigue Pty Ltd\\Desktop\\Cyber_Team - 056\\Dilmika\\Research codee\\aaa.py', reloading
+2024-05-15 20:54:14,536:INFO: * Detected change in 'C:\\Users\\LakjayaSilva\\OneDrive - Voigue Pty Ltd\\Desktop\\Cyber_Team - 056\\Dilmika\\Research codee\\aaa.py', reloading
+2024-05-15 20:54:14,741:INFO: * Detected change in 'C:\\Users\\LakjayaSilva\\OneDrive - Voigue Pty Ltd\\Desktop\\Cyber_Team - 056\\Dilmika\\Research codee\\aaa.py', reloading
+2024-05-15 20:54:14,942:INFO: * Detected change in 'C:\\Users\\LakjayaSilva\\OneDrive - Voigue Pty Ltd\\Desktop\\Cyber_Team - 056\\Dilmika\\Research codee\\aaa.py', reloading
+2024-05-15 20:54:15,430:INFO: * Restarting with watchdog (windowsapi)
+2024-05-15 20:54:17,782:WARNING: * Debugger is active!
+2024-05-15 20:54:17,788:INFO: * Debugger PIN: 109-047-819
+2024-05-15 20:54:28,726:INFO: * Detected change in 'C:\\Users\\LakjayaSilva\\OneDrive - Voigue Pty Ltd\\Desktop\\Cyber_Team - 056\\Dilmika\\Research codee\\aaa.py', reloading
+2024-05-15 20:54:29,266:INFO: * Restarting with watchdog (windowsapi)
+2024-05-15 20:54:31,958:WARNING: * Debugger is active!
+2024-05-15 20:54:31,966:INFO: * Debugger PIN: 109-047-819
+2024-05-15 20:54:41,888:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8081
+ * Running on http://192.168.8.169:8081
+2024-05-15 20:54:41,888:INFO:[33mPress CTRL+C to quit[0m
+2024-05-15 20:54:41,906:INFO: * Restarting with watchdog (windowsapi)
+2024-05-15 20:54:44,698:WARNING: * Debugger is active!
+2024-05-15 20:54:44,705:INFO: * Debugger PIN: 109-047-819
+2024-05-15 20:54:46,082:INFO:192.168.8.169 - - [15/May/2024 20:54:46] "GET /predict HTTP/1.1" 200 -
+2024-05-15 20:56:19,038:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.8.169:8080
+2024-05-15 20:56:19,039:INFO:[33mPress CTRL+C to quit[0m
+2024-05-15 20:56:24,921:INFO:192.168.8.169 - - [15/May/2024 20:56:24] "GET /index HTTP/1.1" 200 -
+2024-05-15 20:56:49,323:INFO:192.168.8.169 - - [15/May/2024 20:56:49] "POST /predict HTTP/1.1" 200 -
+2024-05-15 20:57:01,457:INFO:192.168.8.169 - - [15/May/2024 20:57:01] "POST /predict HTTP/1.1" 200 -
+2024-05-15 20:57:11,013:ERROR:Some column values are left empty
+2024-05-15 20:57:11,025:INFO:192.168.8.169 - - [15/May/2024 20:57:11] "POST /predict HTTP/1.1" 200 -
+2024-05-15 20:57:22,625:INFO:192.168.8.169 - - [15/May/2024 20:57:22] "POST /predict HTTP/1.1" 200 -
+2024-05-15 20:58:40,295:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8081
+ * Running on http://192.168.8.169:8081
+2024-05-15 20:58:40,295:INFO:[33mPress CTRL+C to quit[0m
+2024-05-15 20:58:40,317:INFO: * Restarting with watchdog (windowsapi)
+2024-05-15 20:58:42,980:WARNING: * Debugger is active!
+2024-05-15 20:58:42,988:INFO: * Debugger PIN: 109-047-819
+2024-05-15 20:58:50,128:INFO:192.168.8.169 - - [15/May/2024 20:58:50] "GET /predict HTTP/1.1" 200 -
+2024-05-15 21:01:33,849:INFO: * Detected change in 'C:\\Users\\LakjayaSilva\\OneDrive - Voigue Pty Ltd\\Desktop\\Cyber_Team - 056\\Dilmika\\Research codee\\aaa.py', reloading
+2024-05-15 21:01:34,111:INFO: * Detected change in 'C:\\Users\\LakjayaSilva\\OneDrive - Voigue Pty Ltd\\Desktop\\Cyber_Team - 056\\Dilmika\\Research codee\\aaa.py', reloading
+2024-05-15 21:01:34,347:INFO: * Detected change in 'C:\\Users\\LakjayaSilva\\OneDrive - Voigue Pty Ltd\\Desktop\\Cyber_Team - 056\\Dilmika\\Research codee\\aaa.py', reloading
+2024-05-15 21:01:34,865:INFO: * Restarting with watchdog (windowsapi)
+2024-05-15 21:01:37,474:WARNING: * Debugger is active!
+2024-05-15 21:01:37,482:INFO: * Debugger PIN: 109-047-819
+2024-05-15 21:01:48,857:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8081
+ * Running on http://192.168.8.169:8081
+2024-05-15 21:01:48,857:INFO:[33mPress CTRL+C to quit[0m
+2024-05-15 21:01:48,878:INFO: * Restarting with watchdog (windowsapi)
+2024-05-15 21:01:51,456:WARNING: * Debugger is active!
+2024-05-15 21:01:51,464:INFO: * Debugger PIN: 109-047-819
+2024-05-15 21:01:53,266:INFO:192.168.8.169 - - [15/May/2024 21:01:53] "GET /predict HTTP/1.1" 200 -
+2024-05-17 21:18:18,706:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8081
+ * Running on http://192.168.8.169:8081
+2024-05-17 21:18:18,708:INFO:[33mPress CTRL+C to quit[0m
+2024-05-17 21:18:18,717:INFO: * Restarting with watchdog (windowsapi)
+2024-05-17 21:18:19,945:WARNING: * Debugger is active!
+2024-05-17 21:18:19,948:INFO: * Debugger PIN: 877-116-835
+2024-05-17 21:18:50,452:INFO: * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\timeit.py', reloading
+2024-05-17 21:18:50,822:INFO: * Restarting with watchdog (windowsapi)
+2024-05-17 21:18:52,065:WARNING: * Debugger is active!
+2024-05-17 21:18:52,068:INFO: * Debugger PIN: 877-116-835
+2024-05-17 21:18:52,651:INFO: * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\__init__.py', reloading
+2024-05-17 21:18:52,659:INFO: * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\result.py', reloading
+2024-05-17 21:18:52,664:INFO: * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\util.py', reloading
+2024-05-17 21:18:52,677:INFO: * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\case.py', reloading
+2024-05-17 21:18:52,683:INFO: * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\suite.py', reloading
+2024-05-17 21:18:52,690:INFO: * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\loader.py', reloading
+2024-05-17 21:18:52,695:INFO: * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\main.py', reloading
+2024-05-17 21:18:52,710:INFO: * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\argparse.py', reloading
+2024-05-17 21:18:52,716:INFO: * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\runner.py', reloading
+2024-05-17 21:18:52,722:INFO: * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\signals.py', reloading
+2024-05-17 21:18:53,443:INFO: * Restarting with watchdog (windowsapi)
+2024-05-17 21:18:54,688:WARNING: * Debugger is active!
+2024-05-17 21:18:54,693:INFO: * Debugger PIN: 877-116-835
+2024-05-17 21:18:57,095:INFO: * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\latin_1.py', reloading
+2024-05-17 21:18:57,135:INFO:192.168.8.169 - - [17/May/2024 21:18:57] "GET /predict HTTP/1.1" 200 -
+2024-05-17 21:18:57,581:INFO:192.168.8.169 - - [17/May/2024 21:18:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-05-17 21:18:58,521:INFO: * Restarting with watchdog (windowsapi)
+2024-05-17 21:18:59,676:WARNING: * Debugger is active!
+2024-05-17 21:18:59,681:INFO: * Debugger PIN: 877-116-835
+2024-05-19 12:02:17,049:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.8.169:8061
+2024-05-19 12:02:17,049:INFO:[33mPress CTRL+C to quit[0m
+2024-05-19 12:02:35,283:INFO:192.168.8.169 - - [19/May/2024 12:02:35] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:02:35,380:INFO:192.168.8.169 - - [19/May/2024 12:02:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-05-19 12:02:55,015:INFO:192.168.8.169 - - [19/May/2024 12:02:55] "POST /predict HTTP/1.1" 200 -
+2024-05-19 12:04:11,443:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.8.169:8061
+2024-05-19 12:04:11,443:INFO:[33mPress CTRL+C to quit[0m
+2024-05-19 12:04:12,677:INFO:192.168.8.169 - - [19/May/2024 12:04:12] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:04:13,621:INFO:192.168.8.169 - - [19/May/2024 12:04:13] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:04:14,141:INFO:192.168.8.169 - - [19/May/2024 12:04:14] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:04:14,377:INFO:192.168.8.169 - - [19/May/2024 12:04:14] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:04:30,180:INFO:192.168.8.169 - - [19/May/2024 12:04:30] "POST /predict HTTP/1.1" 200 -
+2024-05-19 12:11:51,900:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.8.169:8061
+2024-05-19 12:11:51,900:INFO:[33mPress CTRL+C to quit[0m
+2024-05-19 12:12:02,745:INFO:192.168.8.169 - - [19/May/2024 12:12:02] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:12:06,042:INFO:192.168.8.169 - - [19/May/2024 12:12:06] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:12:07,580:INFO:192.168.8.169 - - [19/May/2024 12:12:07] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:12:21,975:INFO:192.168.8.169 - - [19/May/2024 12:12:21] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:12:33,130:INFO:192.168.8.169 - - [19/May/2024 12:12:33] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:12:51,487:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.8.169:8061
+2024-05-19 12:12:51,487:INFO:[33mPress CTRL+C to quit[0m
+2024-05-19 12:12:55,018:INFO:192.168.8.169 - - [19/May/2024 12:12:55] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:13:17,106:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.8.169:8061
+2024-05-19 12:13:17,106:INFO:[33mPress CTRL+C to quit[0m
+2024-05-19 12:13:19,710:INFO:192.168.8.169 - - [19/May/2024 12:13:19] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:13:30,598:INFO:192.168.8.169 - - [19/May/2024 12:13:30] "POST /predict HTTP/1.1" 200 -
+2024-05-19 12:17:55,497:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.8.169:8061
+2024-05-19 12:17:55,498:INFO:[33mPress CTRL+C to quit[0m
+2024-05-19 12:18:07,657:INFO:192.168.8.169 - - [19/May/2024 12:18:07] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:18:18,480:INFO:192.168.8.169 - - [19/May/2024 12:18:18] "POST /predict HTTP/1.1" 200 -
+2024-05-19 12:19:03,930:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.8.169:8061
+2024-05-19 12:19:03,930:INFO:[33mPress CTRL+C to quit[0m
+2024-05-19 12:19:07,493:INFO:192.168.8.169 - - [19/May/2024 12:19:07] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:19:08,800:INFO:192.168.8.169 - - [19/May/2024 12:19:08] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:19:20,553:INFO:192.168.8.169 - - [19/May/2024 12:19:20] "POST /predict HTTP/1.1" 200 -
+2024-05-19 12:21:27,910:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.8.169:8061
+2024-05-19 12:21:27,910:INFO:[33mPress CTRL+C to quit[0m
+2024-05-19 12:21:31,350:INFO:192.168.8.169 - - [19/May/2024 12:21:31] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:21:31,711:INFO:192.168.8.169 - - [19/May/2024 12:21:31] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:21:56,114:INFO:192.168.8.169 - - [19/May/2024 12:21:56] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:24:40,813:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.8.169:8061
+2024-05-19 12:24:40,813:INFO:[33mPress CTRL+C to quit[0m
+2024-05-19 12:24:44,423:INFO:192.168.8.169 - - [19/May/2024 12:24:44] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:24:45,553:INFO:192.168.8.169 - - [19/May/2024 12:24:45] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:24:46,112:INFO:192.168.8.169 - - [19/May/2024 12:24:46] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:24:46,447:INFO:192.168.8.169 - - [19/May/2024 12:24:46] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:24:46,685:INFO:192.168.8.169 - - [19/May/2024 12:24:46] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:24:46,894:INFO:192.168.8.169 - - [19/May/2024 12:24:46] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:24:47,098:INFO:192.168.8.169 - - [19/May/2024 12:24:47] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:24:47,565:INFO:192.168.8.169 - - [19/May/2024 12:24:47] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:24:47,979:INFO:192.168.8.169 - - [19/May/2024 12:24:47] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:24:48,186:INFO:192.168.8.169 - - [19/May/2024 12:24:48] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:24:48,377:INFO:192.168.8.169 - - [19/May/2024 12:24:48] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:25:24,080:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.8.169:8061
+2024-05-19 12:25:24,089:INFO:[33mPress CTRL+C to quit[0m
+2024-05-19 12:25:33,894:INFO:192.168.8.169 - - [19/May/2024 12:25:33] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:26:01,449:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.8.169:8061
+2024-05-19 12:26:01,449:INFO:[33mPress CTRL+C to quit[0m
+2024-05-19 12:26:03,216:INFO:192.168.8.169 - - [19/May/2024 12:26:03] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:26:13,507:INFO:192.168.8.169 - - [19/May/2024 12:26:13] "POST /predict HTTP/1.1" 200 -
+2024-05-19 12:49:52,055:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.8.169:8061
+2024-05-19 12:49:52,055:INFO:[33mPress CTRL+C to quit[0m
+2024-05-19 12:51:37,088:INFO:192.168.8.169 - - [19/May/2024 12:51:37] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:51:37,895:INFO:192.168.8.169 - - [19/May/2024 12:51:37] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:51:48,068:INFO:192.168.8.169 - - [19/May/2024 12:51:48] "POST /predict HTTP/1.1" 200 -
+2024-05-19 12:51:48,102:INFO:192.168.8.169 - - [19/May/2024 12:51:48] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2024-05-19 12:52:44,105:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.8.169:8061
+2024-05-19 12:52:44,105:INFO:[33mPress CTRL+C to quit[0m
+2024-05-19 12:52:48,640:INFO:192.168.8.169 - - [19/May/2024 12:52:48] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:53:00,978:INFO:192.168.8.169 - - [19/May/2024 12:53:00] "POST /predict HTTP/1.1" 200 -
+2024-05-19 12:53:01,017:INFO:192.168.8.169 - - [19/May/2024 12:53:01] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2024-05-19 12:54:16,784:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.8.169:8061
+2024-05-19 12:54:16,784:INFO:[33mPress CTRL+C to quit[0m
+2024-05-19 12:54:20,714:INFO:192.168.8.169 - - [19/May/2024 12:54:20] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:54:21,074:INFO:192.168.8.169 - - [19/May/2024 12:54:21] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:54:30,334:INFO:192.168.8.169 - - [19/May/2024 12:54:30] "POST /predict HTTP/1.1" 200 -
+2024-05-19 12:54:30,370:INFO:192.168.8.169 - - [19/May/2024 12:54:30] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2024-05-19 12:55:58,594:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.8.169:8061
+2024-05-19 12:55:58,594:INFO:[33mPress CTRL+C to quit[0m
+2024-05-19 12:56:03,093:INFO:192.168.8.169 - - [19/May/2024 12:56:03] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:56:04,184:INFO:192.168.8.169 - - [19/May/2024 12:56:04] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:56:04,654:INFO:192.168.8.169 - - [19/May/2024 12:56:04] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:56:19,665:INFO:192.168.8.169 - - [19/May/2024 12:56:19] "POST /predict HTTP/1.1" 200 -
+2024-05-19 12:56:19,701:INFO:192.168.8.169 - - [19/May/2024 12:56:19] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2024-05-19 12:57:14,493:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.8.169:8061
+2024-05-19 12:57:14,493:INFO:[33mPress CTRL+C to quit[0m
+2024-05-19 12:57:22,243:INFO:192.168.8.169 - - [19/May/2024 12:57:22] "GET /index HTTP/1.1" 200 -
+2024-05-19 12:57:30,676:INFO:192.168.8.169 - - [19/May/2024 12:57:30] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:01:24,210:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.8.169:8061
+2024-05-19 23:01:24,210:INFO:[33mPress CTRL+C to quit[0m
+2024-05-19 23:01:46,438:INFO:192.168.8.169 - - [19/May/2024 23:01:46] "GET /index HTTP/1.1" 200 -
+2024-05-19 23:01:47,029:INFO:192.168.8.169 - - [19/May/2024 23:01:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-05-19 23:03:09,359:INFO:192.168.8.169 - - [19/May/2024 23:03:09] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:03:24,213:INFO:192.168.8.169 - - [19/May/2024 23:03:24] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:03:42,479:INFO:192.168.8.169 - - [19/May/2024 23:03:42] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:03:51,926:INFO:192.168.8.169 - - [19/May/2024 23:03:51] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:04:00,305:ERROR:Some column values are left empty
+2024-05-19 23:04:00,308:INFO:192.168.8.169 - - [19/May/2024 23:04:00] "POST /predict HTTP/1.1" 200 -
+2024-05-20 09:29:14,211:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.8.169:8061
+2024-05-20 09:29:14,211:INFO:[33mPress CTRL+C to quit[0m
+2024-05-20 09:29:17,801:INFO:192.168.8.169 - - [20/May/2024 09:29:17] "GET /index HTTP/1.1" 200 -
+2024-05-20 09:30:15,450:INFO:192.168.8.169 - - [20/May/2024 09:30:15] "POST /predict HTTP/1.1" 200 -
+2024-05-20 09:30:55,174:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.8.169:8061
+2024-05-20 09:30:55,174:INFO:[33mPress CTRL+C to quit[0m
+2024-05-20 09:31:02,857:INFO:192.168.8.169 - - [20/May/2024 09:31:02] "GET /index HTTP/1.1" 200 -
+2024-05-20 09:31:12,518:INFO:192.168.8.169 - - [20/May/2024 09:31:12] "POST /predict HTTP/1.1" 200 -
+2024-05-20 09:32:33,939:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.8.169:8061
+2024-05-20 09:32:33,939:INFO:[33mPress CTRL+C to quit[0m
+2024-05-20 09:32:36,370:INFO:192.168.8.169 - - [20/May/2024 09:32:36] "GET /index HTTP/1.1" 200 -
+2024-05-20 09:32:48,674:INFO:192.168.8.169 - - [20/May/2024 09:32:48] "POST /predict HTTP/1.1" 200 -
+2024-05-20 09:32:48,708:INFO:192.168.8.169 - - [20/May/2024 09:32:48] "GET /result HTTP/1.1" 200 -
+2024-05-20 09:36:22,413:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.8.169:8061
+2024-05-20 09:36:22,413:INFO:[33mPress CTRL+C to quit[0m
+2024-05-20 09:36:24,063:INFO:192.168.8.169 - - [20/May/2024 09:36:24] "GET /index HTTP/1.1" 200 -
+2024-05-20 09:36:38,258:INFO:192.168.8.169 - - [20/May/2024 09:36:38] "POST /predict HTTP/1.1" 200 -
+2024-05-20 09:36:38,301:INFO:192.168.8.169 - - [20/May/2024 09:36:38] "GET /result HTTP/1.1" 200 -
+2024-05-20 10:19:59,190:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.8.169:8061
+2024-05-20 10:19:59,190:INFO:[33mPress CTRL+C to quit[0m
+2024-05-20 10:20:09,297:INFO:192.168.8.169 - - [20/May/2024 10:20:09] "GET /index HTTP/1.1" 200 -
+2024-05-20 10:20:26,072:INFO:192.168.8.169 - - [20/May/2024 10:20:26] "POST /predict HTTP/1.1" 200 -
+2024-05-20 10:20:26,096:INFO:192.168.8.169 - - [20/May/2024 10:20:26] "GET /result HTTP/1.1" 200 -
+2024-05-20 10:21:47,401:INFO:192.168.8.169 - - [20/May/2024 10:21:47] "POST /predict HTTP/1.1" 200 -
+2024-05-20 10:21:47,432:INFO:192.168.8.169 - - [20/May/2024 10:21:47] "GET /result HTTP/1.1" 200 -
+2024-07-29 15:07:41,115:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.1.142:8061
+2024-07-29 15:07:41,115:INFO:[33mPress CTRL+C to quit[0m
+2024-07-29 15:08:13,460:INFO:127.0.0.1 - - [29/Jul/2024 15:08:13] "GET /index HTTP/1.1" 200 -
+2024-07-29 15:08:14,477:INFO:127.0.0.1 - - [29/Jul/2024 15:08:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-07-29 15:08:47,943:INFO:127.0.0.1 - - [29/Jul/2024 15:08:47] "POST /predict HTTP/1.1" 200 -
+2024-07-29 15:08:47,969:INFO:127.0.0.1 - - [29/Jul/2024 15:08:47] "POST /predict HTTP/1.1" 200 -
+2024-07-29 15:08:48,281:INFO:127.0.0.1 - - [29/Jul/2024 15:08:48] "GET /result HTTP/1.1" 200 -
+2024-07-29 15:28:32,595:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.1.142:8061
+2024-07-29 15:28:32,595:INFO:[33mPress CTRL+C to quit[0m
+2024-07-29 15:28:43,906:INFO:127.0.0.1 - - [29/Jul/2024 15:28:43] "GET /index HTTP/1.1" 200 -
+2024-07-29 15:30:33,251:INFO:127.0.0.1 - - [29/Jul/2024 15:30:33] "POST /predict HTTP/1.1" 200 -
+2024-07-29 15:30:33,288:INFO:127.0.0.1 - - [29/Jul/2024 15:30:33] "GET /result HTTP/1.1" 200 -
+2024-07-29 15:31:39,503:INFO:127.0.0.1 - - [29/Jul/2024 15:31:39] "GET /index HTTP/1.1" 200 -
+2024-07-29 15:31:48,262:INFO:127.0.0.1 - - [29/Jul/2024 15:31:48] "POST /predict HTTP/1.1" 200 -
+2024-07-29 15:31:48,577:INFO:127.0.0.1 - - [29/Jul/2024 15:31:48] "GET /result HTTP/1.1" 200 -
+2024-07-29 15:45:10,182:INFO:127.0.0.1 - - [29/Jul/2024 15:45:10] "POST /predict HTTP/1.1" 200 -
+2024-07-29 15:45:10,281:INFO:127.0.0.1 - - [29/Jul/2024 15:45:10] "GET /result HTTP/1.1" 200 -
+2024-08-07 15:02:27,288:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.1.142:8061
+2024-08-07 15:02:27,289:INFO:[33mPress CTRL+C to quit[0m
+2024-08-07 15:04:42,452:INFO:127.0.0.1 - - [07/Aug/2024 15:04:42] "GET /index HTTP/1.1" 200 -
+2024-08-07 15:04:42,559:INFO:127.0.0.1 - - [07/Aug/2024 15:04:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-08-07 16:31:53,044:INFO:127.0.0.1 - - [07/Aug/2024 16:31:53] "GET /index HTTP/1.1" 200 -
+2024-08-07 16:32:57,634:INFO:127.0.0.1 - - [07/Aug/2024 16:32:57] "GET /index HTTP/1.1" 200 -
+2024-08-07 23:20:10,374:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.1.142:8061
+2024-08-07 23:20:10,375:INFO:[33mPress CTRL+C to quit[0m
+2024-08-07 23:22:51,668:INFO:127.0.0.1 - - [07/Aug/2024 23:22:51] "GET /index HTTP/1.1" 200 -
+2024-08-07 23:23:04,667:INFO:127.0.0.1 - - [07/Aug/2024 23:23:04] "POST /predict HTTP/1.1" 200 -
+2024-08-07 23:23:04,699:INFO:127.0.0.1 - - [07/Aug/2024 23:23:04] "GET /result HTTP/1.1" 200 -
+2024-08-07 23:23:27,697:INFO:127.0.0.1 - - [07/Aug/2024 23:23:27] "POST /predict HTTP/1.1" 200 -
+2024-08-07 23:23:27,711:INFO:127.0.0.1 - - [07/Aug/2024 23:23:27] "GET /result HTTP/1.1" 200 -
+2024-08-07 23:23:42,110:INFO:127.0.0.1 - - [07/Aug/2024 23:23:42] "POST /predict HTTP/1.1" 200 -
+2024-08-07 23:23:42,124:INFO:127.0.0.1 - - [07/Aug/2024 23:23:42] "GET /result HTTP/1.1" 200 -
+2024-08-07 23:24:01,488:INFO:127.0.0.1 - - [07/Aug/2024 23:24:01] "POST /predict HTTP/1.1" 200 -
+2024-08-07 23:24:01,503:INFO:127.0.0.1 - - [07/Aug/2024 23:24:01] "GET /result HTTP/1.1" 200 -
+2024-08-07 23:24:23,757:INFO:127.0.0.1 - - [07/Aug/2024 23:24:23] "POST /predict HTTP/1.1" 200 -
+2024-08-07 23:24:23,771:INFO:127.0.0.1 - - [07/Aug/2024 23:24:23] "GET /result HTTP/1.1" 200 -
+2024-08-07 23:24:41,650:INFO:127.0.0.1 - - [07/Aug/2024 23:24:41] "POST /predict HTTP/1.1" 200 -
+2024-08-07 23:24:41,664:INFO:127.0.0.1 - - [07/Aug/2024 23:24:41] "GET /result HTTP/1.1" 200 -
+2024-08-07 23:24:51,180:INFO:127.0.0.1 - - [07/Aug/2024 23:24:51] "POST /predict HTTP/1.1" 200 -
+2024-08-07 23:24:51,194:INFO:127.0.0.1 - - [07/Aug/2024 23:24:51] "GET /result HTTP/1.1" 200 -
+2024-08-07 23:25:05,213:INFO:127.0.0.1 - - [07/Aug/2024 23:25:05] "POST /predict HTTP/1.1" 200 -
+2024-08-07 23:25:05,233:INFO:127.0.0.1 - - [07/Aug/2024 23:25:05] "GET /result HTTP/1.1" 200 -
+2024-08-07 23:25:25,730:INFO:127.0.0.1 - - [07/Aug/2024 23:25:25] "POST /predict HTTP/1.1" 200 -
+2024-08-07 23:25:25,744:INFO:127.0.0.1 - - [07/Aug/2024 23:25:25] "GET /result HTTP/1.1" 200 -
+2024-08-07 23:25:39,850:INFO:127.0.0.1 - - [07/Aug/2024 23:25:39] "POST /predict HTTP/1.1" 200 -
+2024-08-07 23:25:39,864:INFO:127.0.0.1 - - [07/Aug/2024 23:25:39] "GET /result HTTP/1.1" 200 -
+2024-08-09 01:26:32,487:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.1.142:8061
+2024-08-09 01:26:32,487:INFO:[33mPress CTRL+C to quit[0m
+2024-08-09 01:28:33,922:INFO:127.0.0.1 - - [09/Aug/2024 01:28:33] "GET /index HTTP/1.1" 200 -
+2024-08-09 01:28:47,230:INFO:127.0.0.1 - - [09/Aug/2024 01:28:47] "POST /predict HTTP/1.1" 200 -
+2024-08-09 01:28:47,254:INFO:127.0.0.1 - - [09/Aug/2024 01:28:47] "GET /result HTTP/1.1" 200 -
+2024-08-09 01:29:12,466:INFO:127.0.0.1 - - [09/Aug/2024 01:29:12] "POST /predict HTTP/1.1" 200 -
+2024-08-09 01:29:12,480:INFO:127.0.0.1 - - [09/Aug/2024 01:29:12] "GET /result HTTP/1.1" 200 -
+2024-08-09 01:29:53,024:INFO:127.0.0.1 - - [09/Aug/2024 01:29:53] "POST /predict HTTP/1.1" 200 -
+2024-08-09 01:29:53,040:INFO:127.0.0.1 - - [09/Aug/2024 01:29:53] "GET /result HTTP/1.1" 200 -
+2024-08-09 01:31:14,181:INFO:127.0.0.1 - - [09/Aug/2024 01:31:14] "GET /index HTTP/1.1" 200 -
+2024-08-09 12:05:34,542:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8061
+ * Running on http://192.168.1.142:8061
+2024-08-09 12:05:34,542:INFO:[33mPress CTRL+C to quit[0m
+2024-08-09 12:07:50,183:INFO:127.0.0.1 - - [09/Aug/2024 12:07:50] "GET /index HTTP/1.1" 200 -
+2024-08-09 12:08:00,654:INFO:127.0.0.1 - - [09/Aug/2024 12:08:00] "POST /predict HTTP/1.1" 200 -
+2024-08-09 12:08:00,674:INFO:127.0.0.1 - - [09/Aug/2024 12:08:00] "GET /result HTTP/1.1" 200 -
+2024-08-09 15:16:23,342:INFO:127.0.0.1 - - [09/Aug/2024 15:16:23] "GET /index HTTP/1.1" 200 -
+2024-08-09 15:16:33,507:INFO:127.0.0.1 - - [09/Aug/2024 15:16:33] "POST /predict HTTP/1.1" 200 -
+2024-08-09 15:16:33,526:INFO:127.0.0.1 - - [09/Aug/2024 15:16:33] "GET /result HTTP/1.1" 200 -

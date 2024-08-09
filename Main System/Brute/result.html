@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Result</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 50%;
+        }
+
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Prediction Result</h1>
+    <table>
+        <tr>
+            <th>Attribute</th>
+            <th>Value</th>
+        </tr>
+        <tr>
+            <td>Prediction</td>
+            <td>{{ attack_info.prediction }}</td>
+        </tr>
+        <tr>
+            <td>Attack Type</td>
+            <td>{{ attack_info.attack_type }}</td>
+        </tr>
+        <tr>
+            <td>Severity</td>
+            <td>{{ attack_info.severity }}</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>{{ attack_info.description }}</td>
+        </tr>
+        <tr>
+            <td>Used Features</td>
+            <td>{{ attack_info.used_features }}</td>
+        </tr>
+        <tr>
+            <td>Feature Values</td>
+            <td>
+                <table>
+                    <tr>
+                        <th>Feature</th>
+                        <th>Value</th>
+                    </tr>
+                    {% for key, value in attack_info.feature_values.items() %}
+                        <tr>
+                            <td>{{ key }}</td>
+                            <td>{{ value }}</td>
+                        </tr>
+                    {% endfor %}
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
